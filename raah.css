@@ -192,7 +192,7 @@ p {
     padding-left: 25px;
 }
 
-/* DESIGN SYSTEM SHOWCASE */
+
 .design-section {
     background-color: #F1F0E9;
 }
@@ -328,6 +328,10 @@ footer p {
         gap: 9px;
     }
 
+    .navbar nav a {
+        font-size: 12px;
+    }
+}
     .navbar nav a {
         font-size: 12px;
     }
